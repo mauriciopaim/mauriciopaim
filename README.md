@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/banner-dark.svg">
-  <img alt="Mauricio Paim. Design engineering. I self-host what I use, then fix it upstream." src="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/banner-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/banner-dark.svg?v=2">
+  <img alt="Mauricio Paim. Design engineering. I self-host what I use, then fix it upstream." src="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/banner-light.svg?v=2">
 </picture>
 
 A design career that started in a print shop and is currently pointed at the seam
@@ -12,45 +12,34 @@ Drawing a screen got cheap in 2026. Judgment did not. So I stopped stopping at t
 
 ### Three standing rules
 
-**Run it before having an opinion about it.** Self-hosted, on my own hardware, in
-daily use. A stack you depend on tells you things a demo never will.
-
-**A bug report is a design artifact.** Reproduce from the default install, separate
-what is proven from what is guessed, retract your own bad claim before the
-maintainer finds it. Never make a developer debug my box.
-
-**Systems over screens.** The deliverable is the rules and the component kit
-something else assembles from, not the picture of the finished thing.
+| Run it before having an opinion | A bug report is a design artifact | Systems over screens |
+|:--|:--|:--|
+| Self-hosted, on my own hardware, in daily use. A stack you depend on tells you things a demo never will. | Reproduce from the default install. Separate what is proven from what is guessed. Never make a developer debug my box. | The deliverable is the rules and the component kit something else assembles from, not the picture of the finished thing. |
 
 ## Upstream
 
-Pull requests and issues on projects I run at home. Rebuilt nightly from the GitHub API.
+Pull requests and issues on the projects I run at home. Rebuilt nightly from the GitHub API,
+so it counts what actually landed rather than what I claim.
 
 <!-- LEDGER:START -->
 
-`2 shipped` &nbsp; `2 resolved` &nbsp; `5 open` &nbsp; `4 projects`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-dark.svg?v=a65b821e">
+  <img alt="2 shipped, 3 resolved, 5 open, 4 projects" src="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-light.svg?v=a65b821e">
+</picture>
 
-**[perminder-klair/subwave](https://github.com/perminder-klair/subwave)** &nbsp;·&nbsp; 1.1k stars
-
-- `merged` &nbsp; [Stop a single failed Icecast poll from releasing the idle pause](https://github.com/perminder-klair/subwave/pull/1259)  
-  <sub>shipped in v1.3.0, reported and diagnosed, fix authored by the maintainer</sub>
-- `closed` &nbsp; [Station ident and spoken link air back-to-back: wall-clock idents collide...](https://github.com/perminder-klair/subwave/issues/1258)
-- `closed` &nbsp; [Idle pause releases ~28s after engaging: stream-idle fails open on a single...](https://github.com/perminder-klair/subwave/issues/1256)
-- `open` &nbsp; [No operator setting to keep the clock out of links and idents, the way #471...](https://github.com/perminder-klair/subwave/issues/1286)
-
-**[goodroot/hyprwhspr](https://github.com/goodroot/hyprwhspr)** &nbsp;·&nbsp; 1.1k stars
-
-- `merged` &nbsp; [fix: don't treat a failed package install as missing Vulkan](https://github.com/goodroot/hyprwhspr/pull/232)
-- `open` &nbsp; [audio_device_name / audio_device_id can resolve to a raw ALSA hw: device,...](https://github.com/goodroot/hyprwhspr/issues/234)
-- `open` &nbsp; [Default whisper_prompt is an English sentence, which pulls non-English speech...](https://github.com/goodroot/hyprwhspr/issues/233)
-
-**[anomalyco/opencode](https://github.com/anomalyco/opencode)** &nbsp;·&nbsp; 192.8k stars
-
-- `open` &nbsp; [run --file before the message swallows the message into the file list](https://github.com/anomalyco/opencode/issues/40304)
-
-**[nexu-io/open-design](https://github.com/nexu-io/open-design)** &nbsp;·&nbsp; 83.4k stars
-
-- `open` &nbsp; [deploy/Dockerfile ships no browser: measured size cost and three options for...](https://github.com/nexu-io/open-design/issues/6383)
+| | Contribution | Project |
+|:--|:--|:--|
+| `merged` | [Stop a single failed Icecast poll from releasing the idle pause](https://github.com/perminder-klair/subwave/pull/1259)<br><sub>shipped in v1.3.0, reported and diagnosed, fix authored by the maintainer</sub> | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.1k stars</sub> |
+| `merged` | [fix: don't treat a failed package install as missing Vulkan](https://github.com/goodroot/hyprwhspr/pull/232) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.1k stars</sub> |
+| `closed` | [Station ident and spoken link air back-to-back: wall-clock idents collide with...](https://github.com/perminder-klair/subwave/issues/1258) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.1k stars</sub> |
+| `closed` | [Idle pause releases ~28s after engaging: stream-idle fails open on a single failed...](https://github.com/perminder-klair/subwave/issues/1256) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.1k stars</sub> |
+| `closed` | [audio_device_name / audio_device_id can resolve to a raw ALSA hw: device, bypassing...](https://github.com/goodroot/hyprwhspr/issues/234) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.1k stars</sub> |
+| `open` | [run --file before the message swallows the message into the file list](https://github.com/anomalyco/opencode/issues/40304) | [opencode](https://github.com/anomalyco/opencode)<br><sub>192.8k stars</sub> |
+| `open` | [feat(deploy): opt-in browser image target for the Docker runtime (#6383)](https://github.com/nexu-io/open-design/pull/6385) | [open-design](https://github.com/nexu-io/open-design)<br><sub>83.4k stars</sub> |
+| `open` | [deploy/Dockerfile ships no browser: measured size cost and three options for the...](https://github.com/nexu-io/open-design/issues/6383) | [open-design](https://github.com/nexu-io/open-design)<br><sub>83.4k stars</sub> |
+| `open` | [No operator setting to keep the clock out of links and idents, the way #471 did for...](https://github.com/perminder-klair/subwave/issues/1286) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.1k stars</sub> |
+| `open` | [Default whisper_prompt is an English sentence, which pulls non-English speech into...](https://github.com/goodroot/hyprwhspr/issues/233) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.1k stars</sub> |
 
 <!-- LEDGER:END -->
 

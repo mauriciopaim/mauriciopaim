@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="132" viewBox="0 0 880 132" role="img" aria-label="2 shipped, 3 resolved, 5 open, 4 projects">
+<rect width="880" height="132" fill="#0B0B0B"/>
+<rect x="0.5" y="0.5" width="879" height="131" fill="none" stroke="#272727"/>
+<text x="34" y="76" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="600" letter-spacing="-1.6" fill="#EDEDED">2</text>
+<text x="34" y="102" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.9" fill="#8A8A8A">SHIPPED</text>
+<line x1="220" y1="22" x2="220" y2="110" stroke="#272727" stroke-width="1"/>
+<text x="254" y="76" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="600" letter-spacing="-1.6" fill="#EDEDED">3</text>
+<text x="254" y="102" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.9" fill="#8A8A8A">RESOLVED</text>
+<line x1="440" y1="22" x2="440" y2="110" stroke="#272727" stroke-width="1"/>
+<text x="474" y="76" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="600" letter-spacing="-1.6" fill="#EDEDED">5</text>
+<text x="474" y="102" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.9" fill="#8A8A8A">OPEN</text>
+<line x1="660" y1="22" x2="660" y2="110" stroke="#272727" stroke-width="1"/>
+<text x="694" y="76" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="600" letter-spacing="-1.6" fill="#EDEDED">4</text>
+<text x="694" y="102" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.9" fill="#8A8A8A">PROJECTS</text>
+</svg>
