@@ -1,0 +1,42 @@
+name: ledger
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "data/credits.json"
+      - "scripts/update_ledger.py"
+      - ".github/workflows/ledger.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ledger
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rebuild the upstream ledger
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update_ledger.py
+
+      - name: Commit if it changed
+        run: |
+          if [ -n "$(git status --porcelain README.md)" ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: refresh upstream ledger"
+            git push
+          else
+            echo "no change"
+          fi

@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "perminder-klair/subwave",
+    "url": "https://github.com/perminder-klair/subwave/pull/1259",
+    "title": "Stop a single failed Icecast poll from releasing the idle pause",
+    "state": "merged",
+    "role": "reported and diagnosed, fix authored by the maintainer",
+    "shipped": "v1.3.0",
+    "date": "2026-08-03"
+  }
+]

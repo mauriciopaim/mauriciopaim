@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" role="img" aria-label="Mauricio Paim. Design engineering. I self-host what I use, then fix it upstream.">
+  <rect width="880" height="200" fill="#FFFFFF"/>
+  <rect x="0.5" y="0.5" width="879" height="199" fill="none" stroke="#E5E5E5"/>
+
+  <!-- registration marks -->
+  <g stroke="#111111" stroke-width="1" fill="none" opacity="0.85">
+    <circle cx="812" cy="52" r="13"/>
+    <path d="M812 31v42M791 52h42"/>
+  </g>
+  <g stroke="#E5E5E5" stroke-width="1" fill="none">
+    <path d="M28 26v14M28 26h14"/>
+    <path d="M852 174v-14M852 174h-14"/>
+  </g>
+
+  <text x="56" y="62" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="12" font-weight="700" letter-spacing="4.2" fill="#666666">MAURICIO PAIM</text>
+
+  <text x="56" y="112" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="30" font-weight="600" letter-spacing="-0.8" fill="#111111">Design engineering</text>
+
+  <line x1="56" y1="134" x2="824" y2="134" stroke="#E5E5E5" stroke-width="1"/>
+
+  <text x="56" y="162" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace"
+        font-size="13" fill="#666666">I self-host what I use, then fix it upstream.</text>
+</svg>
