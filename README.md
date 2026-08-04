@@ -24,22 +24,22 @@ so it counts what actually landed rather than what I claim.
 <!-- LEDGER:START -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-dark.svg?v=a65b821e">
-  <img alt="2 shipped, 3 resolved, 5 open, 4 projects" src="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-light.svg?v=a65b821e">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-dark.svg?v=6914858d">
+  <img alt="2 shipped, 4 resolved, 4 open, 4 projects" src="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-light.svg?v=6914858d">
 </picture>
 
 | | Contribution | Project |
 |:--|:--|:--|
-| `merged` | [Stop a single failed Icecast poll from releasing the idle pause](https://github.com/perminder-klair/subwave/pull/1259)<br><sub>shipped in v1.3.0, reported and diagnosed, fix authored by the maintainer</sub> | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.1k stars</sub> |
+| `merged` | [Stop a single failed Icecast poll from releasing the idle pause](https://github.com/perminder-klair/subwave/pull/1259)<br><sub>shipped in v1.3.0, reported and diagnosed, fix authored by the maintainer</sub> | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.2k stars</sub> |
 | `merged` | [fix: don't treat a failed package install as missing Vulkan](https://github.com/goodroot/hyprwhspr/pull/232) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.1k stars</sub> |
-| `closed` | [Station ident and spoken link air back-to-back: wall-clock idents collide with...](https://github.com/perminder-klair/subwave/issues/1258) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.1k stars</sub> |
-| `closed` | [Idle pause releases ~28s after engaging: stream-idle fails open on a single failed...](https://github.com/perminder-klair/subwave/issues/1256) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.1k stars</sub> |
+| `closed` | [Station ident and spoken link air back-to-back: wall-clock idents collide with...](https://github.com/perminder-klair/subwave/issues/1258) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.2k stars</sub> |
+| `closed` | [Idle pause releases ~28s after engaging: stream-idle fails open on a single failed...](https://github.com/perminder-klair/subwave/issues/1256) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.2k stars</sub> |
 | `closed` | [audio_device_name / audio_device_id can resolve to a raw ALSA hw: device, bypassing...](https://github.com/goodroot/hyprwhspr/issues/234) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.1k stars</sub> |
-| `open` | [run --file before the message swallows the message into the file list](https://github.com/anomalyco/opencode/issues/40304) | [opencode](https://github.com/anomalyco/opencode)<br><sub>192.8k stars</sub> |
-| `open` | [feat(deploy): opt-in browser image target for the Docker runtime (#6383)](https://github.com/nexu-io/open-design/pull/6385) | [open-design](https://github.com/nexu-io/open-design)<br><sub>83.4k stars</sub> |
-| `open` | [deploy/Dockerfile ships no browser: measured size cost and three options for the...](https://github.com/nexu-io/open-design/issues/6383) | [open-design](https://github.com/nexu-io/open-design)<br><sub>83.4k stars</sub> |
-| `open` | [No operator setting to keep the clock out of links and idents, the way #471 did for...](https://github.com/perminder-klair/subwave/issues/1286) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.1k stars</sub> |
-| `open` | [Default whisper_prompt is an English sentence, which pulls non-English speech into...](https://github.com/goodroot/hyprwhspr/issues/233) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.1k stars</sub> |
+| `closed` | [Default whisper_prompt is an English sentence, which pulls non-English speech into...](https://github.com/goodroot/hyprwhspr/issues/233) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.1k stars</sub> |
+| `open` | [run --file before the message swallows the message into the file list](https://github.com/anomalyco/opencode/issues/40304) | [opencode](https://github.com/anomalyco/opencode)<br><sub>193.1k stars</sub> |
+| `open` | [feat(deploy): opt-in browser image target for the Docker runtime (#6383)](https://github.com/nexu-io/open-design/pull/6385) | [open-design](https://github.com/nexu-io/open-design)<br><sub>83.5k stars</sub> |
+| `open` | [deploy/Dockerfile ships no browser: measured size cost and three options for the...](https://github.com/nexu-io/open-design/issues/6383) | [open-design](https://github.com/nexu-io/open-design)<br><sub>83.5k stars</sub> |
+| `open` | [No operator setting to keep the clock out of links and idents, the way #471 did for...](https://github.com/perminder-klair/subwave/issues/1286) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.2k stars</sub> |
 
 <!-- LEDGER:END -->
 
