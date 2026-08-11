@@ -36,9 +36,9 @@ so it counts what actually landed rather than what I claim.
 | `closed` | [Idle pause releases ~28s after engaging: stream-idle fails open on a single failed...](https://github.com/perminder-klair/subwave/issues/1256) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.2k stars</sub> |
 | `closed` | [audio_device_name / audio_device_id can resolve to a raw ALSA hw: device, bypassing...](https://github.com/goodroot/hyprwhspr/issues/234) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.1k stars</sub> |
 | `closed` | [Default whisper_prompt is an English sentence, which pulls non-English speech into...](https://github.com/goodroot/hyprwhspr/issues/233) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.1k stars</sub> |
-| `open` | [run --file before the message swallows the message into the file list](https://github.com/anomalyco/opencode/issues/40304) | [opencode](https://github.com/anomalyco/opencode)<br><sub>195.5k stars</sub> |
-| `open` | [feat(deploy): opt-in browser image target for the Docker runtime (#6383)](https://github.com/nexu-io/open-design/pull/6385) | [open-design](https://github.com/nexu-io/open-design)<br><sub>84.8k stars</sub> |
-| `open` | [deploy/Dockerfile ships no browser: measured size cost and three options for the...](https://github.com/nexu-io/open-design/issues/6383) | [open-design](https://github.com/nexu-io/open-design)<br><sub>84.8k stars</sub> |
+| `open` | [run --file before the message swallows the message into the file list](https://github.com/anomalyco/opencode/issues/40304) | [opencode](https://github.com/anomalyco/opencode)<br><sub>195.9k stars</sub> |
+| `open` | [feat(deploy): opt-in browser image target for the Docker runtime (#6383)](https://github.com/nexu-io/open-design/pull/6385) | [open-design](https://github.com/nexu-io/open-design)<br><sub>85k stars</sub> |
+| `open` | [deploy/Dockerfile ships no browser: measured size cost and three options for the...](https://github.com/nexu-io/open-design/issues/6383) | [open-design](https://github.com/nexu-io/open-design)<br><sub>85k stars</sub> |
 | `open` | [No operator setting to keep the clock out of links and idents, the way #471 did for...](https://github.com/perminder-klair/subwave/issues/1286) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.2k stars</sub> |
 | `open` | [feat(dj): add a station switch to keep the clock off air](https://github.com/perminder-klair/subwave/pull/1324) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.2k stars</sub> |
 
