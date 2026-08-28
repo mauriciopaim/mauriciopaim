@@ -24,8 +24,8 @@ so it counts what actually landed rather than what I claim.
 <!-- LEDGER:START -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-dark.svg?v=9f5526f0">
-  <img alt="3 shipped, 5 resolved, 4 open, 4 projects" src="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-light.svg?v=9f5526f0">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-dark.svg?v=4015ead0">
+  <img alt="3 shipped, 5 resolved, 6 open, 5 projects" src="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-light.svg?v=4015ead0">
 </picture>
 
 | | Contribution | Project |
@@ -38,10 +38,12 @@ so it counts what actually landed rather than what I claim.
 | `closed` | [No admin control for the station clock switch (djSpeakClock): placement proposal](https://github.com/perminder-klair/subwave/issues/1380) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.3k stars</sub> |
 | `closed` | [audio_device_name / audio_device_id can resolve to a raw ALSA hw: device, bypassing...](https://github.com/goodroot/hyprwhspr/issues/234) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.2k stars</sub> |
 | `closed` | [Default whisper_prompt is an English sentence, which pulls non-English speech into...](https://github.com/goodroot/hyprwhspr/issues/233) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.2k stars</sub> |
-| `open` | [run --file before the message swallows the message into the file list](https://github.com/anomalyco/opencode/issues/40304) | [opencode](https://github.com/anomalyco/opencode)<br><sub>201.9k stars</sub> |
-| `open` | [feat(deploy): opt-in browser image target for the Docker runtime (#6383)](https://github.com/nexu-io/open-design/pull/6385) | [open-design](https://github.com/nexu-io/open-design)<br><sub>92k stars</sub> |
-| `open` | [deploy/Dockerfile ships no browser: measured size cost and three options for the...](https://github.com/nexu-io/open-design/issues/6383) | [open-design](https://github.com/nexu-io/open-design)<br><sub>92k stars</sub> |
+| `open` | [run --file before the message swallows the message into the file list](https://github.com/anomalyco/opencode/issues/40304) | [opencode](https://github.com/anomalyco/opencode)<br><sub>202.1k stars</sub> |
+| `open` | [feat(deploy): opt-in browser image target for the Docker runtime (#6383)](https://github.com/nexu-io/open-design/pull/6385) | [open-design](https://github.com/nexu-io/open-design)<br><sub>92.3k stars</sub> |
+| `open` | [deploy/Dockerfile ships no browser: measured size cost and three options for the...](https://github.com/nexu-io/open-design/issues/6383) | [open-design](https://github.com/nexu-io/open-design)<br><sub>92.3k stars</sub> |
 | `open` | [No operator setting to keep the clock out of links and idents, the way #471 did for...](https://github.com/perminder-klair/subwave/issues/1286) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.3k stars</sub> |
+| `open` | [Use --mouse=uhid so control works on devices that block INJECT_EVENTS](https://github.com/AdamMusa/omarchy-phone/pull/2) | [omarchy-phone](https://github.com/AdamMusa/omarchy-phone)<br><sub>3 stars</sub> |
+| `open` | [Open Phone and Start AirPlay do nothing on main: `OmarchyUI.spawn_detached` is...](https://github.com/AdamMusa/omarchy-phone/issues/1) | [omarchy-phone](https://github.com/AdamMusa/omarchy-phone)<br><sub>3 stars</sub> |
 
 <!-- LEDGER:END -->
 
