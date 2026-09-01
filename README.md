@@ -24,8 +24,8 @@ so it counts what actually landed rather than what I claim.
 <!-- LEDGER:START -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-dark.svg?v=4015ead0">
-  <img alt="3 shipped, 5 resolved, 6 open, 5 projects" src="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-light.svg?v=4015ead0">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-dark.svg?v=68ceb461">
+  <img alt="4 shipped, 6 resolved, 4 open, 5 projects" src="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-light.svg?v=68ceb461">
 </picture>
 
 | | Contribution | Project |
@@ -33,17 +33,17 @@ so it counts what actually landed rather than what I claim.
 | `merged` | [Stop a single failed Icecast poll from releasing the idle pause](https://github.com/perminder-klair/subwave/pull/1259)<br><sub>shipped in v1.3.0, reported and diagnosed, fix authored by the maintainer</sub> | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.3k stars</sub> |
 | `merged` | [feat(dj): add a station switch to keep the clock off air](https://github.com/perminder-klair/subwave/pull/1324) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.3k stars</sub> |
 | `merged` | [fix: don't treat a failed package install as missing Vulkan](https://github.com/goodroot/hyprwhspr/pull/232) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.2k stars</sub> |
+| `merged` | [Use --mouse=uhid so control works on devices that block INJECT_EVENTS](https://github.com/AdamMusa/omarchy-phone/pull/2) | [omarchy-phone](https://github.com/AdamMusa/omarchy-phone)<br><sub>4 stars</sub> |
 | `closed` | [Station ident and spoken link air back-to-back: wall-clock idents collide with...](https://github.com/perminder-klair/subwave/issues/1258) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.3k stars</sub> |
 | `closed` | [Idle pause releases ~28s after engaging: stream-idle fails open on a single failed...](https://github.com/perminder-klair/subwave/issues/1256) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.3k stars</sub> |
 | `closed` | [No admin control for the station clock switch (djSpeakClock): placement proposal](https://github.com/perminder-klair/subwave/issues/1380) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.3k stars</sub> |
 | `closed` | [audio_device_name / audio_device_id can resolve to a raw ALSA hw: device, bypassing...](https://github.com/goodroot/hyprwhspr/issues/234) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.2k stars</sub> |
 | `closed` | [Default whisper_prompt is an English sentence, which pulls non-English speech into...](https://github.com/goodroot/hyprwhspr/issues/233) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.2k stars</sub> |
-| `open` | [run --file before the message swallows the message into the file list](https://github.com/anomalyco/opencode/issues/40304) | [opencode](https://github.com/anomalyco/opencode)<br><sub>202.7k stars</sub> |
-| `open` | [feat(deploy): opt-in browser image target for the Docker runtime (#6383)](https://github.com/nexu-io/open-design/pull/6385) | [open-design](https://github.com/nexu-io/open-design)<br><sub>93k stars</sub> |
-| `open` | [deploy/Dockerfile ships no browser: measured size cost and three options for the...](https://github.com/nexu-io/open-design/issues/6383) | [open-design](https://github.com/nexu-io/open-design)<br><sub>93k stars</sub> |
+| `closed` | [Open Phone and Start AirPlay do nothing on main: `OmarchyUI.spawn_detached` is...](https://github.com/AdamMusa/omarchy-phone/issues/1) | [omarchy-phone](https://github.com/AdamMusa/omarchy-phone)<br><sub>4 stars</sub> |
+| `open` | [run --file before the message swallows the message into the file list](https://github.com/anomalyco/opencode/issues/40304) | [opencode](https://github.com/anomalyco/opencode)<br><sub>202.9k stars</sub> |
+| `open` | [feat(deploy): opt-in browser image target for the Docker runtime (#6383)](https://github.com/nexu-io/open-design/pull/6385) | [open-design](https://github.com/nexu-io/open-design)<br><sub>93.2k stars</sub> |
+| `open` | [deploy/Dockerfile ships no browser: measured size cost and three options for the...](https://github.com/nexu-io/open-design/issues/6383) | [open-design](https://github.com/nexu-io/open-design)<br><sub>93.2k stars</sub> |
 | `open` | [No operator setting to keep the clock out of links and idents, the way #471 did for...](https://github.com/perminder-klair/subwave/issues/1286) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.3k stars</sub> |
-| `open` | [Use --mouse=uhid so control works on devices that block INJECT_EVENTS](https://github.com/AdamMusa/omarchy-phone/pull/2) | [omarchy-phone](https://github.com/AdamMusa/omarchy-phone)<br><sub>4 stars</sub> |
-| `open` | [Open Phone and Start AirPlay do nothing on main: `OmarchyUI.spawn_detached` is...](https://github.com/AdamMusa/omarchy-phone/issues/1) | [omarchy-phone](https://github.com/AdamMusa/omarchy-phone)<br><sub>4 stars</sub> |
 
 <!-- LEDGER:END -->
 
