@@ -24,8 +24,8 @@ so it counts what actually landed rather than what I claim.
 <!-- LEDGER:START -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-dark.svg?v=a7a8dffb">
-  <img alt="4 shipped, 7 resolved, 3 open, 5 projects" src="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-light.svg?v=a7a8dffb">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-dark.svg?v=6abb37cd">
+  <img alt="4 shipped, 8 resolved, 2 open, 5 projects" src="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-light.svg?v=6abb37cd">
 </picture>
 
 | | Contribution | Project |
@@ -34,6 +34,7 @@ so it counts what actually landed rather than what I claim.
 | `merged` | [feat(dj): add a station switch to keep the clock off air](https://github.com/perminder-klair/subwave/pull/1324) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.3k stars</sub> |
 | `merged` | [fix: don't treat a failed package install as missing Vulkan](https://github.com/goodroot/hyprwhspr/pull/232) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.2k stars</sub> |
 | `merged` | [Use --mouse=uhid so control works on devices that block INJECT_EVENTS](https://github.com/AdamMusa/omarchy-phone/pull/2) | [omarchy-phone](https://github.com/AdamMusa/omarchy-phone)<br><sub>6 stars</sub> |
+| `closed` | [deploy/Dockerfile ships no browser: measured size cost and three options for the...](https://github.com/nexu-io/open-design/issues/6383) | [open-design](https://github.com/nexu-io/open-design)<br><sub>95.5k stars</sub> |
 | `closed` | [Station ident and spoken link air back-to-back: wall-clock idents collide with...](https://github.com/perminder-klair/subwave/issues/1258) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.3k stars</sub> |
 | `closed` | [Idle pause releases ~28s after engaging: stream-idle fails open on a single failed...](https://github.com/perminder-klair/subwave/issues/1256) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.3k stars</sub> |
 | `closed` | [No operator setting to keep the clock out of links and idents, the way #471 did for...](https://github.com/perminder-klair/subwave/issues/1286) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.3k stars</sub> |
@@ -41,9 +42,8 @@ so it counts what actually landed rather than what I claim.
 | `closed` | [audio_device_name / audio_device_id can resolve to a raw ALSA hw: device, bypassing...](https://github.com/goodroot/hyprwhspr/issues/234) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.2k stars</sub> |
 | `closed` | [Default whisper_prompt is an English sentence, which pulls non-English speech into...](https://github.com/goodroot/hyprwhspr/issues/233) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.2k stars</sub> |
 | `closed` | [Open Phone and Start AirPlay do nothing on main: `OmarchyUI.spawn_detached` is...](https://github.com/AdamMusa/omarchy-phone/issues/1) | [omarchy-phone](https://github.com/AdamMusa/omarchy-phone)<br><sub>6 stars</sub> |
-| `open` | [run --file before the message swallows the message into the file list](https://github.com/anomalyco/opencode/issues/40304) | [opencode](https://github.com/anomalyco/opencode)<br><sub>206.3k stars</sub> |
-| `open` | [feat(deploy): opt-in browser image target for the Docker runtime (#6383)](https://github.com/nexu-io/open-design/pull/6385) | [open-design](https://github.com/nexu-io/open-design)<br><sub>95.3k stars</sub> |
-| `open` | [deploy/Dockerfile ships no browser: measured size cost and three options for the...](https://github.com/nexu-io/open-design/issues/6383) | [open-design](https://github.com/nexu-io/open-design)<br><sub>95.3k stars</sub> |
+| `open` | [run --file before the message swallows the message into the file list](https://github.com/anomalyco/opencode/issues/40304) | [opencode](https://github.com/anomalyco/opencode)<br><sub>206.6k stars</sub> |
+| `open` | [feat(deploy): opt-in browser image target for the Docker runtime (#6383)](https://github.com/nexu-io/open-design/pull/6385) | [open-design](https://github.com/nexu-io/open-design)<br><sub>95.5k stars</sub> |
 
 <!-- LEDGER:END -->
 
