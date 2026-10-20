@@ -24,26 +24,26 @@ so it counts what actually landed rather than what I claim.
 <!-- LEDGER:START -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-dark.svg?v=a6fd67b7">
-  <img alt="4 shipped, 9 resolved, 1 open, 5 projects" src="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-light.svg?v=a6fd67b7">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-dark.svg?v=260b397e">
+  <img alt="4 shipped, 10 resolved, 0 open, 5 projects" src="https://raw.githubusercontent.com/mauriciopaim/mauriciopaim/main/assets/stats-light.svg?v=260b397e">
 </picture>
 
 | | Contribution | Project |
 |:--|:--|:--|
 | `merged` | [Stop a single failed Icecast poll from releasing the idle pause](https://github.com/perminder-klair/subwave/pull/1259)<br><sub>shipped in v1.3.0, reported and diagnosed, fix authored by the maintainer</sub> | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.4k stars</sub> |
 | `merged` | [feat(dj): add a station switch to keep the clock off air](https://github.com/perminder-klair/subwave/pull/1324) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.4k stars</sub> |
-| `merged` | [fix: don't treat a failed package install as missing Vulkan](https://github.com/goodroot/hyprwhspr/pull/232) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.2k stars</sub> |
+| `merged` | [fix: don't treat a failed package install as missing Vulkan](https://github.com/goodroot/hyprwhspr/pull/232) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.3k stars</sub> |
 | `merged` | [Use --mouse=uhid so control works on devices that block INJECT_EVENTS](https://github.com/AdamMusa/omarchy-phone/pull/2) | [omarchy-phone](https://github.com/AdamMusa/omarchy-phone)<br><sub>8 stars</sub> |
-| `closed` | [feat(deploy): opt-in browser image target for the Docker runtime (#6383)](https://github.com/nexu-io/open-design/pull/6385) | [open-design](https://github.com/nexu-io/open-design)<br><sub>102.4k stars</sub> |
-| `closed` | [deploy/Dockerfile ships no browser: measured size cost and three options for the...](https://github.com/nexu-io/open-design/issues/6383) | [open-design](https://github.com/nexu-io/open-design)<br><sub>102.4k stars</sub> |
+| `closed` | [run --file before the message swallows the message into the file list](https://github.com/anomalyco/opencode/issues/40304) | [opencode](https://github.com/anomalyco/opencode)<br><sub>218.3k stars</sub> |
+| `closed` | [feat(deploy): opt-in browser image target for the Docker runtime (#6383)](https://github.com/nexu-io/open-design/pull/6385) | [open-design](https://github.com/nexu-io/open-design)<br><sub>102.7k stars</sub> |
+| `closed` | [deploy/Dockerfile ships no browser: measured size cost and three options for the...](https://github.com/nexu-io/open-design/issues/6383) | [open-design](https://github.com/nexu-io/open-design)<br><sub>102.7k stars</sub> |
 | `closed` | [Station ident and spoken link air back-to-back: wall-clock idents collide with...](https://github.com/perminder-klair/subwave/issues/1258) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.4k stars</sub> |
 | `closed` | [Idle pause releases ~28s after engaging: stream-idle fails open on a single failed...](https://github.com/perminder-klair/subwave/issues/1256) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.4k stars</sub> |
 | `closed` | [No operator setting to keep the clock out of links and idents, the way #471 did for...](https://github.com/perminder-klair/subwave/issues/1286) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.4k stars</sub> |
 | `closed` | [No admin control for the station clock switch (djSpeakClock): placement proposal](https://github.com/perminder-klair/subwave/issues/1380) | [subwave](https://github.com/perminder-klair/subwave)<br><sub>1.4k stars</sub> |
-| `closed` | [audio_device_name / audio_device_id can resolve to a raw ALSA hw: device, bypassing...](https://github.com/goodroot/hyprwhspr/issues/234) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.2k stars</sub> |
-| `closed` | [Default whisper_prompt is an English sentence, which pulls non-English speech into...](https://github.com/goodroot/hyprwhspr/issues/233) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.2k stars</sub> |
+| `closed` | [audio_device_name / audio_device_id can resolve to a raw ALSA hw: device, bypassing...](https://github.com/goodroot/hyprwhspr/issues/234) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.3k stars</sub> |
+| `closed` | [Default whisper_prompt is an English sentence, which pulls non-English speech into...](https://github.com/goodroot/hyprwhspr/issues/233) | [hyprwhspr](https://github.com/goodroot/hyprwhspr)<br><sub>1.3k stars</sub> |
 | `closed` | [Open Phone and Start AirPlay do nothing on main: `OmarchyUI.spawn_detached` is...](https://github.com/AdamMusa/omarchy-phone/issues/1) | [omarchy-phone](https://github.com/AdamMusa/omarchy-phone)<br><sub>8 stars</sub> |
-| `open` | [run --file before the message swallows the message into the file list](https://github.com/anomalyco/opencode/issues/40304) | [opencode](https://github.com/anomalyco/opencode)<br><sub>217.1k stars</sub> |
 
 <!-- LEDGER:END -->
 
